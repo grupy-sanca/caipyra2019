@@ -1,0 +1,10 @@
+@phdthesis{quteprints93723,
+          author = {Wanvimol Nadee},
+            year = {2016},
+           title = {Modelling user profiles for recommender systems},
+          school = {Queensland University of Technology},
+        keywords = {User profile, Recommender Systems, Taxonomy information, User preferences, Language Model},
+        abstract = {Recommender systems assist users in finding what they want. The challenging issue is how to efficiently acquire user preferences or user information needs for building personalized recommender systems. This research explores the acquisition of user preferences using data taxonomy information to enhance personalized recommendations for alleviating cold-start problem. A concept hierarchy model is proposed, which provides a two-dimensional hierarchy for acquiring user preferences. The language model is also extended for the proposed hierarchy in order to generate an effective recommender algorithm. Both Amazon.com book and music datasets are used to evaluate the proposed approach, and the experimental results show that the proposed approach is promising.},
+             url = {https://eprints.qut.edu.au/93723/}
+}
+
