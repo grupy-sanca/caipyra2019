@@ -124,11 +124,73 @@
               </h1>
             </div>
           </header>
+
           <div class="schedule-body">
-            <h2>
-                Em breve
-            </h2>
+            <div class="schedule-body">
+              <div class="btn-group-lg" role="group" aria-label="Selecione o dia">
+                <button type="button" class="btn btn-primary tablink" onclick="switchToTab(event, 'day01')">
+                  Tutoriais 07/06
+
+                </button>
+                <button type="button" class="btn btn-primary tablink" onclick="switchToTab(event, 'day02')">
+                  Palestras 08/06
+                </button>
+                <button type="button" class="btn btn-primary tablink" onclick="switchToTab(event, 'day03')">
+                  Palestras 09/06
+                </button>
+                <button type="button" class="btn btn-primary tablink" onclick="switchToTab(event, 'day04')">
+                  Sprints 10/06
+                </button>
+
+                <div class="track tabcontent active" id="day01">
+                  <div class="track-talk">
+                    <p class="hour"><time>08:30</time></p>
+                    <p class="talk">Tutorial de Django Rest Framework</p>
+                    <p class="speaker">João Ricardo Lhullier Lugão</p>
+                  </div>
+
+                  <div class="track-leisure">
+                    <p class="hour"><time>12:30</time></p>
+                    <p class="talk">Almoço</p>
+                  </div>
+
+                  <div class="track-talk">
+                    <p class="hour"><time>14:00</time></p>
+                    <p class="talk">Desenvolvendo webcrawlers utilizando Scrapy</p>
+                    <p class="speaker">Renne Rocha</p>
+                  </div>
+
+                  <div class="track-leisure">
+                    <p class="hour"><time>18:00</time></p>
+                    <p class="talk">Fechamento tutoriais</p>
+                  </div>
+                </div>
+
+                <div class="track tabcontent" id="day02">
+                  <h2>Em breve</h2>
+                </div>
+
+                <div class="track tabcontent" id="day03">
+                  <h2>Em breve</h2>
+                </div>
+
+                <div class="track tabcontent" id="day04">
+                  <div class="track-talk">
+                    <p class="hour"><time>14:00</time></p>
+                    <p class="talk">Contribuições para o projeto open source vrcrpy</p>
+                    <p class="speaker">Luiz Menezes</p>
+                  </div>
+
+                  <div class="track-leisure">
+                    <p class="hour"><time>18:00</time></p>
+                    <p class="talk">Fechamento sprints</p>
+                  </div>
+                </div>
+
+              </div>
+            </div>
           </div>
+
         </div>
       </div>
     </section>
