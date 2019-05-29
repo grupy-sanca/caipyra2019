@@ -37,3 +37,23 @@
  * License - https://fontawesome.com/license (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */@font-face{font-family:Font Awesome\ 5 Brands;font-style:normal;font-weight:400;src:url(/b680adbac11d91675e2ecdb198206211.eot);src:url(../font/b680adbac11d91675e2ecdb198206211.eot?#iefix) format("embedded-opentype"),url(../font/4019e2ef5746b8baa1ca57ff6afd6bed.woff2) format("woff2"),url(../font/0d2158700ccb68e527a6915a6f9256e3.woff) format("woff"),url(../font/913334b20fe18a3568d18d9178d2b9b8.ttf) format("truetype"),url(../font/3dabc72295310f7340b7583c62b0dd96.svg#fontawesome) format("svg")}.fab{font-family:Font Awesome\ 5 Brands}.intern-page-content{padding-bottom:30px}.intern-page-content .header-call-to-action{margin-top:30px}@media (min-width:991px){.intern-page-content .header-call-to-action{margin-top:0}}.footer-logo-wrapper{padding-top:30px;padding-bottom:15px}body{background-color:#f9f8f4;font-family:Advent Pro,sans-serif}ul{margin:0;padding:0}p{font-family:Nunito,Helvetica Neue,sans-serif!important}.content-wrapper{overflow-x:hidden;position:relative;width:100%}.content-wrapper>section{padding-top:30px;padding-bottom:120px;position:relative}.img-fluid{max-width:100%;display:block;margin:0 auto}.anchor{display:block;margin-top:-120px;position:absolute;top:0;left:0}
 /*# sourceMappingURL=styles.css.map*/
+
+.table {
+    margin-top: 0px;
+}
+
+.table thead tr th {
+    background-color: transparent;
+    font-size: 20px;
+}
+
+.room1 {
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.room2 {
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 0px
+}
