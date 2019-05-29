@@ -57,3 +57,50 @@
     margin-top: 20px;
     margin-bottom: 0px
 }
+
+.track-talk:before {
+    background-color:#000;
+}
+
+.btn-primary {
+    background-color: #c0208e;
+    border-color: #c0208e;
+}
+
+.btn-primary:hover {
+    background-color: #95196e;
+    border-color: #95196e;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled).active:focus,
+.btn-primary:not(:disabled):not(.disabled):active:focus,
+.show > .btn-primary.dropdown-toggle:focus {
+    background-color: #95196e;
+    border-color: #95196e;
+}
+
+.pybr-button--blue:hover {
+    background-color: #95196e;
+    border-color: #95196e;
+}
+
+.schedule-container .schedule .track .track-talk::before {
+    background-color: #c0208e;
+}
+
+.schedule-container .schedule .track .track-keynote::before {
+    background-color: #c0208e;
+}
+
+.schedule-container .schedule .track div .talk {
+    color: #26d0c5;
+}
+
+.talk .fas {
+    font-size: 25px;
+}
+
+.popover {
+    max-width: 800px;
+}
