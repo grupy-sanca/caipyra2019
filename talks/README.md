@@ -40,3 +40,29 @@ https://speakerdeck.com/luizmenezes/async-e-bom-async-eu-gosto
 por Marcos Paulo
 
 [Slides](./Marcos-Paulo-A-Evolução-do-REST.pdf)
+
+
+## Benefícios de ser um desenvolvedor que vê além do código
+por Layla Codogno
+
+https://docs.google.com/presentation/d/1y_0YvRj41nIYaQ_r8Wm2vq04LBINcZdOMUSyC_2s8Lg/mobilepresent#slide=id.p
+
+
+
+## PubSub com RabbitMQ como comunicação entre microsserviços
+por João Daher
+
+[Slides](./João-Daher-RabbitMQ.pdf)
+
+
+## Como um grupo de estudos estimula a troca de saber dentro da comunidade Pyladies São Paulo
+por Pyladies São Paulo
+
+
+[Slides](./Pyladies-São-Paulo-Como-um-grupo-de-estudos-estimula-a-troca-de-saber.pdf)
+
+
+## 5/10 em ajudar crianças a criar um aplicativo
+por Livia Dantas
+
+https://drive.google.com/file/d/15zCwneVsntRGtjpePQ2RW9kuuDv5rRmN/view
